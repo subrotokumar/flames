@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FLAMES</string>
+    <string name="flames">FLAMES</string>
+    <string name="first_person_name">First person name</string>
+    <string name="submit">Submit</string>
+    <string name="second_person_name">Second person name</string>
+</resources>
