@@ -71,7 +71,6 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:hint="@string/first_person_name"
-                    android:textAlignment="center"
                     android:inputType="textCapWords"
                     android:text=""
                     android:textColor="#363a47"
@@ -104,7 +103,6 @@
                     android:hint="@string/second_person_name"
                     android:inputType="textCapWords"
                     android:text=""
-                    android:textAlignment="center"
                     android:textColor="#363a47"/>
             </com.google.android.material.textfield.TextInputLayout>
 
