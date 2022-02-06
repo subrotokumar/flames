@@ -4,9 +4,6 @@
 <p align="center"><a href="https://github.com/subrotokumar/flames/releases"><img src="/meta/android/download.png"></a></p> 
 <p align="center">
 <a href="https://github.com/subrotokumar/flames" alt="GitHub release"><img src="https://img.shields.io/badge/version-0.1.0-blue.svg" ></a>
-
-<a href="https://github.com/subrotokumar" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-green.svg"></a>
-</p>
 <hr>
 
 <h3 align="center">**Star :star:  this repo to show your support and it really does matter!** :clap:</h4>
